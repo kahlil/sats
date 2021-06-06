@@ -12,11 +12,11 @@ export const Footer = () => (
     </Link>{' '}
     &bull;{' '}
     <Link
-      href="https://github.com/kahlil/dark"
+      href="https://github.com/kahlil/sats"
       isExternal
       textDecoration="underline"
     >
-      github/kahlil/dark
+      github/kahlil/sats
     </Link>{' '}
     &bull;{' '}
     <Link
